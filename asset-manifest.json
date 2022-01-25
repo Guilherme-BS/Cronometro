@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cronometro/static/css/main.e967952c.css",
+    "main.js": "/Cronometro/static/js/main.5bfef7f7.js",
+    "static/media/Cronometro.png": "/Cronometro/static/media/Cronometro.910ec1f0ccef27233284.png",
+    "index.html": "/Cronometro/index.html",
+    "main.e967952c.css.map": "/Cronometro/static/css/main.e967952c.css.map",
+    "main.5bfef7f7.js.map": "/Cronometro/static/js/main.5bfef7f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e967952c.css",
+    "static/js/main.5bfef7f7.js"
+  ]
+}
